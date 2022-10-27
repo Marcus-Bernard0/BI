@@ -1,8 +1,11 @@
 # Dashboards
 
 ## [1 - Projeto BI - Logística](https://github.com/Marcus-Bernard0/BI/tree/master/BI%20-%20Log%C3%ADstica)
+### **Projeto**<br>
 
+Este projeto é uma análise de 3 redes de supermercados. O objetivo era extrair informações relevantes. <br>
 
+![dashboard-logistica](https://github.com/Marcus-Bernard0/BI/blob/master/BI%20-%20Log%C3%ADstica/Dashboard%20Log%C3%ADstica.png)
 
 ## [2 - Projeto BI - Estudo de caso rede de varejo](https://github.com/Marcus-Bernard0/BI/tree/master/BI%20-%20EstudodeCaso)
 
